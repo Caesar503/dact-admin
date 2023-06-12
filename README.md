@@ -10,7 +10,8 @@ laravel-wechat: ^6.0
 jwt-auth: ^1.0
 telescope: ^4.0
 
-####加载资源 
+#### 加载资源 
+
 php artisan admin:install
 
 php artisan admin:publish
