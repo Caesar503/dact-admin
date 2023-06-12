@@ -10,6 +10,13 @@ laravel-wechat: ^6.0
 jwt-auth: ^1.0
 telescope: ^4.0
 
+####加载资源 
+php artisan admin:install
+
+php artisan admin:publish
+
+php artisan telescope:publish
+
 ### 主要集成项及能力
 
 #### dcat-admin
